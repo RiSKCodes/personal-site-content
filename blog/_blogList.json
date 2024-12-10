@@ -1,6 +1,7 @@
 [
   {
-    "title": "This is a title",
-    "url": "https://example.com/"
+    "title": "Hello, world!",
+    "url": "hello-world",
+    "date": "December 9, 2024"
   }
 ]
